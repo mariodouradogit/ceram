@@ -1,5 +1,15 @@
 <html lang="en">
 <head>
+
+
+<script>
+   function scrollToTargetMD() {
+      var targetElement = document.getElementById("scrollTarget");
+      targetElement.scrollIntoView({ behavior: "smooth" });
+   }
+</script>
+
+
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
 
@@ -64,177 +74,18 @@ website title md
 
 <header class="position-sticky sticky-top ">
 <nav id="navbar" class="navbar navbar-expand-lg navbar-dark">
-
-
-
-
-
 <div class="container-xl ">
-<a class="d-flex undefined" href="https://solana.com/">
-<img alt="Solana" fetchpriority="high" width="149" height="22" decoding="async" data-nimg="1" srcset="https://solana.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogotype.e4df684f.svg&amp;w=256&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogotype.e4df684f.svg&amp;w=384&amp;q=75 2x" src="https://solana.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogotype.e4df684f.svg&amp;w=384&amp;q=75" style="color: transparent;">
-</a>
-<button aria-controls="navbarCollapse" type="button" aria-label="Toggle navigation" class="navbar-toggler collapsed">
-<span class="bar">
-</span>
-<span class="bar">
-</span>
-<span class="bar">
-</span>
-</button>
-<div class="navbar-collapse collapse" id="navbarCollapse">
-<ul class="navbar-nav ms-auto">
-<li class="nav-item dropdown" style="--color-active: #19fb9b;">
-<button class="nav-link nav-link--primary dropdown-toggle false dropdown-toggle" id="react-aria-1" aria-expanded="false" type="button">
-Learn<svg width="24" height="24">
-<g fill="none" fill-rule="evenodd">
-<path d="M0 0h24v24H0z">
-</path>
-<path fill="currentColor" d="M17.293 8.293a1 1 0 1 1 1.414 1.414l-6 6a1 1 0 0 1-1.383.03l-6-5.5a1 1 0 1 1 1.352-1.474l5.294 4.853 5.323-5.323Z">
-</path>
-</g>
-</svg>
-</button>
-</li>
-<li class="nav-item dropdown" style="--color-active: #fed612;">
-<button class="nav-link nav-link--primary dropdown-toggle false dropdown-toggle" id="react-aria-2" aria-expanded="false" type="button">
-Build<svg width="24" height="24">
-<g fill="none" fill-rule="evenodd">
-<path d="M0 0h24v24H0z">
-</path>
-<path fill="currentColor" d="M17.293 8.293a1 1 0 1 1 1.414 1.414l-6 6a1 1 0 0 1-1.383.03l-6-5.5a1 1 0 1 1 1.352-1.474l5.294 4.853 5.323-5.323Z">
-</path>
-</g>
-</svg>
-</button>
-</li>
-<li class="nav-item dropdown" style="--color-active: #FF5722;">
-<button class="nav-link nav-link--primary dropdown-toggle  dropdown-toggle" id="react-aria-3" aria-expanded="false" type="button">
-Solutions<svg width="24" height="24">
-<g fill="none" fill-rule="evenodd">
-<path d="M0 0h24v24H0z">
-</path>
-<path fill="currentColor" d="M17.293 8.293a1 1 0 1 1 1.414 1.414l-6 6a1 1 0 0 1-1.383.03l-6-5.5a1 1 0 1 1 1.352-1.474l5.294 4.853 5.323-5.323Z">
-</path>
-</g>
-</svg>
-</button>
-</li>
-<li class="nav-item dropdown" style="--color-active: #9945ff;">
-<button class="nav-link nav-link--primary dropdown-toggle false dropdown-toggle" id="react-aria-4" aria-expanded="false" type="button">
-Network<svg width="24" height="24">
-<g fill="none" fill-rule="evenodd">
-<path d="M0 0h24v24H0z">
-</path>
-<path fill="currentColor" d="M17.293 8.293a1 1 0 1 1 1.414 1.414l-6 6a1 1 0 0 1-1.383.03l-6-5.5a1 1 0 1 1 1.352-1.474l5.294 4.853 5.323-5.323Z">
-</path>
-</g>
-</svg>
-</button>
-<div aria-labelledby="react-aria-4" data-bs-popper="static" class="dropdown-menu">
-<div class="d-lg-flex">
-<div>
-<div class="text-uppercase py-2 d-flex align-items-center">
-<svg class="me-3" width="18" height="19" viewBox="0 0 18 19" fill="none">
-<rect x="0.790609" y="5.58686" width="10.1362" height="12.6083" rx="1.3" transform="rotate(-8 0.790609 5.58686)" fill="#9945FF" fill-opacity="0.2" stroke="#9945FF" stroke-width="1.4">
-</rect>
-<rect x="7.17194" y="0.790609" width="10.1362" height="12.6083" rx="1.3" transform="rotate(8 7.17194 0.790609)" fill="#9945FF" fill-opacity="0.3" stroke="#9945FF" stroke-width="1.4">
-</rect>
-</svg>
-Resources</div>
-<div>
-<a class="nav-link nav-link--secondary" href="https://solana.com/validators">
-<strong class="d-block text-white">
-Become a Validator</strong>
-Help run the Solana network.</a>
-<a class="nav-link nav-link--secondary" href="https://solana.com/rpc">
-<strong class="d-block text-white">
-RPC Providers</strong>
-Build crypto apps that scale.</a>
-<a href="https://status.solana.com/" class="nav-link nav-link--secondary" rel="noopener noreferrer" target="_blank">
-<strong class="d-block text-white">
-Network Status</strong>
-Network performance and status.</a>
-</div>
-</div>
-<div class="divider">
-</div>
-<div>
-<div class="text-uppercase py-2 d-flex align-items-center">
-<svg class="me-3" width="19" height="20" viewBox="0 0 19 20" fill="none">
-<path d="M.6 3.447 5.57.687l4.969 2.76v5.481l-4.97 2.76L.6 8.929V3.447Z" fill="#9945FF" fill-opacity=".3" stroke="#9945FF" stroke-width="1.2" stroke-linecap="round">
-</path>
-<path d="M11.812 6.75a5.063 5.063 0 0 0-3.58 1.483" stroke="#200F35" stroke-linecap="round">
-</path>
-<circle cx="11.813" cy="11.813" r="4.563" fill="#000" stroke="#9945FF" stroke-linecap="round">
-</circle>
-<path d="M14.625 15.75 18 19.125" stroke="#9945FF" stroke-width="1.2" stroke-linecap="round">
-</path>
-<mask id="network-inspect" maskUnits="userSpaceOnUse" x="6" y="6" width="11" height="11" style="mask-type: alpha;">
-<circle cx="11.928" cy="11.813" r="4.947" fill="#fff">
-</circle>
-</mask>
-<g mask="url(#network-inspect)">
-<path d="m2.635 7.02 5.171-2.771 5.171 2.77v5.465l-5.17 2.77-5.172-2.77V7.02Z" fill="#9945FF" fill-opacity=".3" stroke="#9945FF" stroke-width="1.2" stroke-linecap="round">
-</path>
-</g>
-<path d="m.563 3.375 5.062 2.813 5.063-2.813M5.625 6.188v5.062" stroke="#9945FF" stroke-width="1.2">
-</path>
-</svg>
-Inspect</div>
-<div>
-<a href="https://solscan.io/" class="nav-link nav-link--secondary" rel="noopener noreferrer" target="_blank">
-<strong class="d-block text-white">
-Solscan</strong>
-Explore Solana blockchain in real time.</a>
-<a href="https://solana.fm/" class="nav-link nav-link--secondary" rel="noopener noreferrer" target="_blank">
-<strong class="d-block text-white">
-SolanaFM</strong>
-Solana blockchain explorer and indexer.</a>
-</div>
-</div>
-</div>
-</div>
-</li>
-<li class="nav-item dropdown" style="--color-active: #f087ff;">
-<button class="nav-link nav-link--primary dropdown-toggle false dropdown-toggle" id="react-aria-5" aria-expanded="false" type="button">
-Community<svg width="24" height="24">
-<g fill="none" fill-rule="evenodd">
-<path d="M0 0h24v24H0z">
-</path>
-<path fill="currentColor" d="M17.293 8.293a1 1 0 1 1 1.414 1.414l-6 6a1 1 0 0 1-1.383.03l-6-5.5a1 1 0 1 1 1.352-1.474l5.294 4.853 5.323-5.323Z">
-</path>
-</g>
-</svg>
-</button>
-</li>
-</ul>
-</div>
-</div>
-
-
-<!--
-<div class="container-xl ">
-<a class="d-flex undefined" href="https://solana.com/eeee">
+<a class="d-flex undefined" href="new1.html">
 <img alt="Solana" fetchpriority="high" width="149" height="22" decoding="async" data-nimg="1" srcset=https://solana.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogotype.e4df684f.svg&amp;w=256&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogotype.e4df684f.svg&amp;w=384&amp;q=75 2x" src="https://solana.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogotype.e4df684f.svg&amp;w=384&amp;q=75" style="color: transparent;">
 </a>
 
-<button aria-controls="navbarCollapse" type="button" aria-label="Toggle navigation" class="navbar-toggler collapsed">
-<span class="bar">
-</span>
-<span class="bar">
-</span>
-<span class="bar">
-</span>
-</button>
-
 <div class="navbar-collapse collapse" id="navbarCollapse">
 <ul class="navbar-nav ms-auto">
 
 
-<a href="https://example.com" target="_blank">
+<a href="#scrollTarget" onclick="scrollToTargetMD()">
     <button class="nav-link nav-link--primary dropdown-toggle false dropdown-toggle" id="react-aria-1" aria-expanded="false" type="button">
 Learn
-
 </button>
 </a>
 
@@ -263,8 +114,6 @@ Community
 </ul>
 </div>
 </div>
-
---> 
 </nav>
 </header>
 
@@ -284,7 +133,7 @@ Community
 
 </div>
 <h1 class="h2 mb-4">
-Powerful 1 for developers.<br class="d-block">
+Powerful for developers.<br class="d-block">
 Fast for everyone.</h1>
 <div class="row">
 <div class="col-md-7 mx-auto">
@@ -416,6 +265,7 @@ Net carbon impact</div>
 </main>
 
 
+<a id="scrollTarget"></a>
 
 
 <!-- RODAPE-->
