@@ -214,14 +214,14 @@
     display:none
 }
 .slick-loading .slick-list{
-    background:#fff url(https://www.solana.com/_next/static/media/ajax-loader.0b80f665.gif) 50% no-repeat
+    background:#fff url(/_next/static/media/ajax-loader.0b80f665.gif) 50% no-repeat
 }
 @font-face{
     font-family:slick;
     font-weight:400;
     font-style:normal;
-    src:url(https://www.solana.com/_next/static/media/slick.25572f22.eot);
-    src:url(https://www.solana.com/_next/static/media/slick.25572f22.eot?#iefix) format("embedded-opentype"),url(https://www.solana.com/_next/static/media/slick.653a4cbb.woff) format("woff"),url(https://www.solana.com/_next/static/media/slick.6aa1ee46.ttf) format("truetype"),url(https://www.solana.com/_next/static/media/slick.f895cfdf.svg#slick) format("svg")
+    src:url(/_next/static/media/slick.25572f22.eot);
+    src:url(/_next/static/media/slick.25572f22.eot?#iefix) format("embedded-opentype"),url(/_next/static/media/slick.653a4cbb.woff) format("woff"),url(/_next/static/media/slick.6aa1ee46.ttf) format("truetype"),url(/_next/static/media/slick.f895cfdf.svg#slick) format("svg")
 }
 .slick-next,.slick-prev{
     font-size:0;
