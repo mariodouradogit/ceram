@@ -49,19 +49,36 @@
 <link rel="stylesheet" href="https://mariodouradogit.github.io/ceram/7e9c1570e118dc0c.css" crossorigin="" data-n-p="">
 
 
+<!-- DESKTOP -->
 <style>
-        /* Default styling for <br> element */
+        
         .desktop-br {
             display: none;
         }
 
-        /* Media query for desktop */
         @media only screen and (min-width: 768px) {
             .desktop-br {
                 display: inline;
             }
         }
-    </style>
+</style>
+
+<!-- MOBILE -->
+<style>
+        
+        .mobile-br {
+            display: none;
+        }
+
+        
+        @media only screen and (max-width: 768px) {
+            .mobile-br {
+                display: inline;
+            }
+        }
+</style>
+
+
 
 
 
@@ -124,9 +141,22 @@ About
 <div class="pb-10 IndexHero_index-hero__J1AyL">
 	<div class="container text-center IndexHero_index-hero__container___O5eF">
 		<h1 class="h2 mb-4">
-			<p style="font-family: 'Verdana', sans-serif;font-size: 70px;">
-			<span class="desktop-br"><br><br></span>Data Solutions</p>
-			<p style="font-family: 'Verdana', sans-serif;font-size: 30px;">Integration solutions for a better data visualization.</p>
+			<!-- desktop -->
+			<span class="desktop-br">
+				<p style="font-family: 'Verdana', sans-serif;font-size: 70px;">
+				<br><br>Data Solutions</p>
+				<p style="font-family: 'Verdana', sans-serif;font-size: 30px;">Integration solutions for a better data visualization.</p>
+			</span>
+			
+			<!-- mobile -->
+			<span class="mobile-br">
+				<p style="font-family: 'Verdana', sans-serif;font-size: 40px;">
+				<br><br>Data Solutions</p>
+				<p style="font-family: 'Verdana', sans-serif;font-size: 25px;">Integration solutions for a better data visualization.</p>
+			</span>
+			
+					
+			
 		</h1>
 		<div class="row">
 			<div class="col-md-7 mx-auto">
