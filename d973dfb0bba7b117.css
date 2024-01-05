@@ -1,6 +1,6 @@
 @font-face{
     font-family:Diatype;
-    src:url(/_next/static/media/ABCDiatype-Thin.b4e3c15a.woff2) format("woff2"),url(/_next/static/media/ABCDiatype-Thin.9af0bbab.woff) format("woff");
+    src:url(https://www.solana.com/_next/static/media/ABCDiatype-Thin.b4e3c15a.woff2) format("woff2"),url(https://www.solana.com/_next/static/media/ABCDiatype-Thin.9af0bbab.woff) format("woff");
     font-weight:200;
     font-style:normal;
     font-stretch:normal;
@@ -8,7 +8,7 @@
 }
 @font-face{
     font-family:Diatype;
-    src:url(/_next/static/media/ABCDiatype-ThinItalic.252209c8.woff2) format("woff2"),url(/_next/static/media/ABCDiatype-ThinItalic.2e63e7b3.woff) format("woff");
+    src:url(https://www.solana.com/_next/static/media/ABCDiatype-ThinItalic.252209c8.woff2) format("woff2"),url(https://www.solana.com/_next/static/media/ABCDiatype-ThinItalic.2e63e7b3.woff) format("woff");
     font-weight:200;
     font-style:italic;
     font-stretch:normal;
@@ -16,7 +16,7 @@
 }
 @font-face{
     font-family:Diatype;
-    src:url(/_next/static/media/ABCDiatype-Light.1a9eca98.woff2) format("woff2"),url(/_next/static/media/ABCDiatype-Light.584c0ea5.woff) format("woff");
+    src:url(https://www.solana.com/_next/static/media/ABCDiatype-Light.1a9eca98.woff2) format("woff2"),url(https://www.solana.com/_next/static/media/ABCDiatype-Light.584c0ea5.woff) format("woff");
     font-weight:300;
     font-style:normal;
     font-stretch:normal;
@@ -24,7 +24,7 @@
 }
 @font-face{
     font-family:Diatype;
-    src:url(/_next/static/media/ABCDiatype-LightItalic.6c1630e1.woff2) format("woff2"),url(/_next/static/media/ABCDiatype-LightItalic.53c98fb6.woff) format("woff");
+    src:url(https://www.solana.com/_next/static/media/ABCDiatype-LightItalic.6c1630e1.woff2) format("woff2"),url(https://www.solana.com/_next/static/media/ABCDiatype-LightItalic.53c98fb6.woff) format("woff");
     font-weight:300;
     font-style:italic;
     font-stretch:normal;
@@ -32,7 +32,7 @@
 }
 @font-face{
     font-family:Diatype;
-    src:url(/_next/static/media/ABCDiatype-Regular.2505c0cb.woff2) format("woff2"),url(/_next/static/media/ABCDiatype-Regular.244f1b51.woff) format("woff");
+    src:url(https://www.solana.com/_next/static/media/ABCDiatype-Regular.2505c0cb.woff2) format("woff2"),url(https://www.solana.com/_next/static/media/ABCDiatype-Regular.244f1b51.woff) format("woff");
     font-weight:400;
     font-style:normal;
     font-stretch:normal;
@@ -40,7 +40,7 @@
 }
 @font-face{
     font-family:Diatype;
-    src:url(/_next/static/media/ABCDiatype-RegularItalic.a743dde3.woff2) format("woff2"),url(/_next/static/media/ABCDiatype-RegularItalic.ca6db677.woff) format("woff");
+    src:url(https://www.solana.com/_next/static/media/ABCDiatype-RegularItalic.a743dde3.woff2) format("woff2"),url(https://www.solana.com/_next/static/media/ABCDiatype-RegularItalic.ca6db677.woff) format("woff");
     font-weight:400;
     font-style:italic;
     font-stretch:normal;
@@ -48,7 +48,7 @@
 }
 @font-face{
     font-family:Diatype;
-    src:url(/_next/static/media/ABCDiatype-Medium.c86deac8.woff2) format("woff2"),url(/_next/static/media/ABCDiatype-Medium.becbf2be.woff) format("woff");
+    src:url(https://www.solana.com/_next/static/media/ABCDiatype-Medium.c86deac8.woff2) format("woff2"),url(https://www.solana.com/_next/static/media/ABCDiatype-Medium.becbf2be.woff) format("woff");
     font-weight:500;
     font-style:normal;
     font-stretch:normal;
@@ -56,7 +56,7 @@
 }
 @font-face{
     font-family:Diatype;
-    src:url(/_next/static/media/ABCDiatype-MediumItalic.d786a702.woff2) format("woff2"),url(/_next/static/media/ABCDiatype-MediumItalic.9a198992.woff) format("woff");
+    src:url(https://www.solana.com/_next/static/media/ABCDiatype-MediumItalic.d786a702.woff2) format("woff2"),url(https://www.solana.com/_next/static/media/ABCDiatype-MediumItalic.9a198992.woff) format("woff");
     font-weight:500;
     font-style:italic;
     font-stretch:normal;
@@ -64,7 +64,7 @@
 }
 @font-face{
     font-family:Diatype;
-    src:url(/_next/static/media/ABCDiatype-Bold.f2bf1e1c.woff2) format("woff2"),url(/_next/static/media/ABCDiatype-Bold.f8206fcb.woff) format("woff");
+    src:url(https://www.solana.com/_next/static/media/ABCDiatype-Bold.f2bf1e1c.woff2) format("woff2"),url(https://www.solana.com/_next/static/media/ABCDiatype-Bold.f8206fcb.woff) format("woff");
     font-weight:700;
     font-style:normal;
     font-stretch:normal;
@@ -72,7 +72,7 @@
 }
 @font-face{
     font-family:Diatype;
-    src:url(/_next/static/media/ABCDiatype-BoldItalic.5656b244.woff2) format("woff2"),url(/_next/static/media/ABCDiatype-BoldItalic.f6defb15.woff) format("woff");
+    src:url(https://www.solana.com/_next/static/media/ABCDiatype-BoldItalic.5656b244.woff2) format("woff2"),url(https://www.solana.com/_next/static/media/ABCDiatype-BoldItalic.f6defb15.woff) format("woff");
     font-weight:700;
     font-style:italic;
     font-stretch:normal;
@@ -80,7 +80,7 @@
 }
 @font-face{
     font-family:DSemi;
-    src:url(/_next/static/media/ABCDiatypeSemi-Mono-Thin.1ebffb4d.woff2) format("woff2"),url(/_next/static/media/ABCDiatypeSemi-Mono-Thin.36cb28df.woff) format("woff");
+    src:url(https://www.solana.com/_next/static/media/ABCDiatypeSemi-Mono-Thin.1ebffb4d.woff2) format("woff2"),url(https://www.solana.com/_next/static/media/ABCDiatypeSemi-Mono-Thin.36cb28df.woff) format("woff");
     font-weight:200;
     font-style:normal;
     font-stretch:normal;
@@ -88,7 +88,7 @@
 }
 @font-face{
     font-family:DSemi;
-    src:url(/_next/static/media/ABCDiatypeSemi-Mono-ThinItalic.d127e86f.woff2) format("woff2"),url(/_next/static/media/ABCDiatypeSemi-Mono-ThinItalic.52d55702.woff) format("woff");
+    src:url(https://www.solana.com/_next/static/media/ABCDiatypeSemi-Mono-ThinItalic.d127e86f.woff2) format("woff2"),url(https://www.solana.com/_next/static/media/ABCDiatypeSemi-Mono-ThinItalic.52d55702.woff) format("woff");
     font-weight:200;
     font-style:italic;
     font-stretch:normal;
@@ -96,7 +96,7 @@
 }
 @font-face{
     font-family:DSemi;
-    src:url(/_next/static/media/ABCDiatypeSemi-Mono-Light.082f744a.woff2) format("woff2"),url(/_next/static/media/ABCDiatypeSemi-Mono-Light.8805289a.woff) format("woff");
+    src:url(https://www.solana.com/_next/static/media/ABCDiatypeSemi-Mono-Light.082f744a.woff2) format("woff2"),url(https://www.solana.com/_next/static/media/ABCDiatypeSemi-Mono-Light.8805289a.woff) format("woff");
     font-weight:300;
     font-style:normal;
     font-stretch:normal;
@@ -104,7 +104,7 @@
 }
 @font-face{
     font-family:DSemi;
-    src:url(/_next/static/media/ABCDiatypeSemi-Mono-LightItalic.3e85174c.woff2) format("woff2"),url(/_next/static/media/ABCDiatypeSemi-Mono-LightItalic.f6ba25f4.woff) format("woff");
+    src:url(https://www.solana.com/_next/static/media/ABCDiatypeSemi-Mono-LightItalic.3e85174c.woff2) format("woff2"),url(https://www.solana.com/_next/static/media/ABCDiatypeSemi-Mono-LightItalic.f6ba25f4.woff) format("woff");
     font-weight:300;
     font-style:italic;
     font-stretch:normal;
@@ -112,7 +112,7 @@
 }
 @font-face{
     font-family:DSemi;
-    src:url(/_next/static/media/ABCDiatypeSemi-Mono-Regular.39db908c.woff2) format("woff2"),url(/_next/static/media/ABCDiatypeSemi-Mono-Regular.96a20c28.woff) format("woff");
+    src:url(https://www.solana.com/_next/static/media/ABCDiatypeSemi-Mono-Regular.39db908c.woff2) format("woff2"),url(https://www.solana.com/_next/static/media/ABCDiatypeSemi-Mono-Regular.96a20c28.woff) format("woff");
     font-weight:400;
     font-style:normal;
     font-stretch:normal;
@@ -120,7 +120,7 @@
 }
 @font-face{
     font-family:DSemi;
-    src:url(/_next/static/media/ABCDiatypeSemi-Mono-RegularItalic.fcb834de.woff2) format("woff2"),url(/_next/static/media/ABCDiatypeSemi-Mono-RegularItalic.e9fc2b52.woff) format("woff");
+    src:url(https://www.solana.com/_next/static/media/ABCDiatypeSemi-Mono-RegularItalic.fcb834de.woff2) format("woff2"),url(https://www.solana.com/_next/static/media/ABCDiatypeSemi-Mono-RegularItalic.e9fc2b52.woff) format("woff");
     font-weight:400;
     font-style:italic;
     font-stretch:normal;
@@ -128,7 +128,7 @@
 }
 @font-face{
     font-family:DSemi;
-    src:url(/_next/static/media/ABCDiatypeSemi-Mono-Medium.bc3bf3a6.woff2) format("woff2"),url(/_next/static/media/ABCDiatypeSemi-Mono-Medium.ad224266.woff) format("woff");
+    src:url(https://www.solana.com/_next/static/media/ABCDiatypeSemi-Mono-Medium.bc3bf3a6.woff2) format("woff2"),url(https://www.solana.com/_next/static/media/ABCDiatypeSemi-Mono-Medium.ad224266.woff) format("woff");
     font-weight:500;
     font-style:normal;
     font-stretch:normal;
@@ -136,7 +136,7 @@
 }
 @font-face{
     font-family:DSemi;
-    src:url(/_next/static/media/ABCDiatypeSemi-Mono-MediumItalic.ce3d9d10.woff2) format("woff2"),url(/_next/static/media/ABCDiatypeSemi-Mono-MediumItalic.aa66aae5.woff) format("woff");
+    src:url(https://www.solana.com/_next/static/media/ABCDiatypeSemi-Mono-MediumItalic.ce3d9d10.woff2) format("woff2"),url(https://www.solana.com/_next/static/media/ABCDiatypeSemi-Mono-MediumItalic.aa66aae5.woff) format("woff");
     font-weight:500;
     font-style:italic;
     font-stretch:normal;
@@ -144,7 +144,7 @@
 }
 @font-face{
     font-family:DSemi;
-    src:url(/_next/static/media/ABCDiatypeSemi-Mono-Bold.9bc44e28.woff2) format("woff2"),url(/_next/static/media/ABCDiatypeSemi-Mono-Bold.b4640918.woff) format("woff");
+    src:url(https://www.solana.com/_next/static/media/ABCDiatypeSemi-Mono-Bold.9bc44e28.woff2) format("woff2"),url(https://www.solana.com/_next/static/media/ABCDiatypeSemi-Mono-Bold.b4640918.woff) format("woff");
     font-weight:700;
     font-style:normal;
     font-stretch:normal;
@@ -152,7 +152,7 @@
 }
 @font-face{
     font-family:DSemi;
-    src:url(/_next/static/media/ABCDiatypeSemi-Mono-BoldItalic.aaf8e06a.woff2) format("woff2"),url(/_next/static/media/ABCDiatypeSemi-Mono-BoldItalic.17eee800.woff) format("woff");
+    src:url(https://www.solana.com/_next/static/media/ABCDiatypeSemi-Mono-BoldItalic.aaf8e06a.woff2) format("woff2"),url(https://www.solana.com/_next/static/media/ABCDiatypeSemi-Mono-BoldItalic.17eee800.woff) format("woff");
     font-weight:700;
     font-style:italic;
     font-stretch:normal;
@@ -160,36 +160,36 @@
 }
 @font-face{
     font-family:BlenderPro;
-    src:url(/_next/static/media/BlenderPro-Book.2210c1b3.woff2) format("woff2"),url(/_next/static/media/BlenderPro-Book.9f3a91db.woff) format("woff");
+    src:url(https://www.solana.com/_next/static/media/BlenderPro-Book.2210c1b3.woff2) format("woff2"),url(https://www.solana.com/_next/static/media/BlenderPro-Book.9f3a91db.woff) format("woff");
     font-weight:400;
     font-style:normal;
     font-display:swap
 }
 @font-face{
     font-family:BlenderPro;
-    src:url(/_next/static/media/BlenderPro-Bold.85343c2b.woff2) format("woff2"),url(/_next/static/media/BlenderPro-Bold.231c034c.woff) format("woff");
+    src:url(https://www.solana.com/_next/static/media/BlenderPro-Bold.85343c2b.woff2) format("woff2"),url(https://www.solana.com/_next/static/media/BlenderPro-Bold.231c034c.woff) format("woff");
     font-weight:700;
     font-style:normal;
     font-display:swap
 }
 @font-face{
     font-family:Unbounded;
-    src:url(/_next/static/media/Unbounded-Bold.cddbbedc.ttf);
+    src:url(https://www.solana.com/_next/static/media/Unbounded-Bold.cddbbedc.ttf);
     font-weight:700
 }
 @font-face{
     font-family:Unbounded;
-    src:url(/_next/static/media/Unbounded-Medium.e7603192.ttf);
+    src:url(https://www.solana.com/_next/static/media/Unbounded-Medium.e7603192.ttf);
     font-weight:500
 }
 @font-face{
     font-family:NB Architekt;
-    src:url(/_next/static/media/NBArchitekt-Light.28b1d12c.otf);
+    src:url(https://www.solana.com/_next/static/media/NBArchitekt-Light.28b1d12c.otf);
     font-weight:300
 }
 @font-face{
     font-family:NB Architekt;
-    src:url(/_next/static/media/NBArchitekt-Regular.8e0ca204.otf);
+    src:url(https://www.solana.com/_next/static/media/NBArchitekt-Regular.8e0ca204.otf);
     font-weight:400
 }
 /*! tailwindcss v3.3.2 | MIT License | https://tailwindcss.com*
