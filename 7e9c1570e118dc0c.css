@@ -505,6 +505,12 @@
     -webkit-text-fill-color:transparent;
     background-clip:text
 }
+.IndexStats_index-stats__color--yellow__muO5N{
+    background:linear-gradient(97.65deg,#eedf42 11.36%,#ee8442 54.3%,#ee3742 100.78%);
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:transparent;
+    background-clip:text
+}
 .IndexStats_index-stats__color__F8ess::-moz-selection{
     -webkit-text-fill-color:#111
 }
